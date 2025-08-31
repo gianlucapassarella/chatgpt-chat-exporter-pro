@@ -1,0 +1,10 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+istruzioni.txt
+
+# Screenshots / cache
+screenshots/*.psd
+screenshots/*.xcf

@@ -1,0 +1,18 @@
+{
+  "env": { "browser": true, "es2021": true },
+  "extends": ["eslint:recommended"],
+  "parserOptions": { "ecmaVersion": "latest", "sourceType": "module" },
+  "rules": {
+    "no-unused-vars": ["warn", { "argsIgnorePattern": "^_", "varsIgnorePattern": "^_" }],
+    "no-undef": "off"
+  },
+  "globals": {
+    "GM": "readonly",
+    "GM_addStyle": "readonly",
+    "GM_getValue": "readonly",
+    "GM_setValue": "readonly",
+    "GM_deleteValue": "readonly",
+    "GM_xmlhttpRequest": "readonly",
+    "unsafeWindow": "readonly"
+  }
+}
