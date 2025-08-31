@@ -1,5 +1,11 @@
 # ChatGPT Chat Exporter – Pro (MD/HTML/TXT/ZIP, Copy, Print, Settings)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![No auto-update](https://img.shields.io/badge/auto--update-disabled-red)
+![Manual install](https://img.shields.io/badge/install-manual-blue)
+![Tampermonkey](https://img.shields.io/badge/compatible-Tampermonkey-green)
+
+
 Esporta le conversazioni da ChatGPT/ChatGPT.com in **Markdown**, **HTML**, **TXT**, oppure in un unico **ZIP** (md+html+txt).  
 Include **Copy to clipboard**, **Print via iframe (→ PDF)**, **Settings** (timestamp, source URL, TXT senza code block), **filename robusto** con titolo conversazione + data, e un menu **flottante** “Export”.
 
