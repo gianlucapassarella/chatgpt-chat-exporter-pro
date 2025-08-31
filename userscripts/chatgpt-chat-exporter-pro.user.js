@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ChatGPT Chat Exporter – Pro (token fix, robust MD fences, ZIP safe concat, Copy, Print via iframe, Settings; no auto-update)
 // @namespace    local
-// @version      1.0.0.1-gp
+// @version      1.0.0.2-gp
 // @description  Esporta/Condividi conversazioni ChatGPT: MD/HTML/TXT, Copy, Print (iframe), ZIP (md+html+txt). Fences Markdown robusti, token a prova di escape, righe vuote attorno ai blocchi. Titolo lungo, menu flottante, impostazioni locali. Nessun auto-update, nessuna rete.
 // @author       GP
 // @match        https://chat.openai.com/*
