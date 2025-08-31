@@ -70,7 +70,7 @@ Include **Copy to clipboard**, **Print via iframe (→ PDF)**, **Settings** (tim
 - **Niente auto-update**: per policy privacy. Se vuoi un branch “auto-update”, crea una variante con `@downloadURL/@updateURL` puntando alla **raw URL** del file su GitHub (GreasyFork-style), *ma* è opzionale.
 
 ## 📦 Build / Release
-Non serve build. Fai **tag** con `vX.Y.Z` e aggiorna il campo `@version` nello userscript.
+1.0.0.1
 
 ## 📄 Licenza
 **MIT** – vedi `LICENSE`.
